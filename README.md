@@ -4,3 +4,7 @@ The main of this project is use Market Basket Analysis to understand customer pu
 
 ## Objective
 To solve the business problem <b> Which products are commonly purchased together? </b>
+
+
+##Note
+The Jupyter Notebook unable to show some plot done with plotly . Please Check the pdf file for the full code and plot
