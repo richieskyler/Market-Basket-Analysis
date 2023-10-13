@@ -8,5 +8,5 @@ How can we improve profit and customer's experience
 
 
 ## Note
-Github doesn't support a lot of features of notebooks, such as interactive Plotly plots, therefore some charts might not be displayed. <a href="https://nbviewer.org/">Nbviewer</a> can be used to view the python project effectively or check the pdf file
-i.e copy the link to the noteboo file a view from the site
+Github doesn't support a lot of features of notebooks, such as interactive Plotly plots, therefore some charts might not be displayed. <a href="https://nbviewer.org/">Nbviewer</a> can be used to view the python project effectively or check the pdf file.
+i.e copy the link to the notebook file a view from the site.
