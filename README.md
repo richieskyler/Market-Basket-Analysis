@@ -7,4 +7,4 @@ To solve the business problem <b> Which products are commonly purchased together
 
 
 ## Note
-The Jupyter Notebook unable to show some plot done with plotly . Please Check the pdf file for the full code and plot
+Github doesn't support a lot of features of notebooks, such as interactive Plotly plots, therefore some charts might not be displayed. <a href="https://nbviewer.org/">Nbviewer</a> can be used to view the python project effectively or check the pdf file
